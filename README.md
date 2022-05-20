@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @palmpalmpalm
-- 👀 I’m interested in AI & Robotics
 
 
 <!---
